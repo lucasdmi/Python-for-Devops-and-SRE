@@ -1,5 +1,5 @@
 class CalculadoraFesta:
-    custo_comida_por_pessoa = 25
+    custo_comida_por_pessoa = 25 #custo fixo
 
     def __init__(self, numero_de_convidados):
         self.numero_de_convidados = numero_de_convidados
